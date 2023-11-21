@@ -1,0 +1,88 @@
+.opener, .footer
+{
+    background-color:#176B87;
+}
+
+
+.title-text, .subtitle .about-title 
+{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'PT Serif', serif;
+}
+
+
+
+
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+
+.showcase-img
+{
+    border: #176B87 5px solid;
+    padding-left:5px;
+    padding-right: 5px
+}
+
+.about-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height:33vh;
+    background-color: #176B87;
+}
+
+
+.main
+{
+    background-color: #176B87;
+
+}
+
+.about-start, .contact-title
+{
+    font-family: 'Caveat', cursive;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'PT Serif', serif;
+    
+}
+
+.about
+{
+   
+    font-weight: bold;
+    
+}
+
+.list-unstyled
+{
+    align-items: center;
+}
+
+.about-start
+{
+    font-size: 5em;
+}
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
